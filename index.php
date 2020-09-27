@@ -1,3 +1,4 @@
 <?php
-echo "OLA MUNDO"
+echo "hello mundo"
+echo "olha só"
 ?>
