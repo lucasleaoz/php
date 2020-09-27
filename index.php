@@ -1,3 +1,4 @@
 <?php
-echo "OLA MUNDO"
+echo "ola mundo";
+echo "ola hcode";
 ?>
